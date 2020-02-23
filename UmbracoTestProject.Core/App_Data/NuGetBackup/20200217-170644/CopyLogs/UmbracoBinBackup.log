@@ -1,0 +1,34 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 17 February 2020 17:06:45
+   Source : C:\Dev\Work\HappyPorch\UmbracoTestProject\UmbracoTestProject.Core\bin\
+     Dest : C:\Dev\Work\HappyPorch\UmbracoTestProject\UmbracoTestProject.Core\App_Data\NuGetBackup\20200217-170644\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Dev\Work\HappyPorch\UmbracoTestProject\UmbracoTestProject.Core\bin\
+	  New Dir          2	C:\Dev\Work\HappyPorch\UmbracoTestProject\UmbracoTestProject.Core\bin\Debug\
+	    New File  		    4096	UmbracoTestProject.Core.dll  0%  100%  
+	    New File  		   13824	UmbracoTestProject.Core.pdb  0%  100%  
+	  New Dir          0	C:\Dev\Work\HappyPorch\UmbracoTestProject\UmbracoTestProject.Core\bin\Release\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         2         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    17.5 k    17.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             4480000 Bytes/sec.
+   Speed :             256.347 MegaBytes/min.
+   Ended : 17 February 2020 17:06:45
+
